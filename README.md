@@ -1,11 +1,15 @@
-# Week 4 Assignments
+# Week 4 Assignments - HTML Basics
 
- Files and Tasks
+This folder contains simple HTML programs for practicing basic webpage creation and formatting.
+
+---
+
+# Files and Tasks
 
 ## nested_ul.html
 
 Creates a nested unordered list using HTML.  
-Shows different subjects and topics using sublists.
+Shows subjects and their subtopics using lists inside lists.
 
 ### Concepts Used
 - `<ul>`
@@ -18,23 +22,30 @@ Shows different subjects and topics using sublists.
 
 ## pochi_cat.html
 
-Creates a simple webpage about a cat named Pochi.  
-Displays text, image, ordered list, and links.
-
-### Features
-- Introduction section
-- Profile section
-- Cat image
-- Ordered list
-- Hyperlinks
+Creates a simple profile webpage for a cat named Pochi.  
+Displays introduction text, image, profile details, and links.
 
 ### Concepts Used
 - Headings
 - Paragraphs
 - Images
 - Ordered Lists
-- Anchor Tags
-- Basic Styling
+- Links (`<a>`)
+- Line Breaks (`<br>`)
+
+---
+
+## first_webpage.html
+
+Creates a basic webpage with paragraphs and a food list.  
+Demonstrates simple text formatting and unordered lists.
+
+### Concepts Used
+- Paragraphs
+- Headings
+- Unordered Lists
+- List Items
+- Line Breaks
 
 ---
 
@@ -43,10 +54,11 @@ Displays text, image, ordered list, and links.
 - HTML Structure
 - Headings
 - Paragraphs
-- Ordered and Unordered Lists
+- Ordered Lists
+- Unordered Lists
 - Nested Lists
 - Images
-- Hyperlinks
-- Basic Inline CSS
+- Links
+- Basic Formatting
 
 ---
